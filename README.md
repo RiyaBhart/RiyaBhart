@@ -136,8 +136,7 @@ AI/ML Projects • Full-Stack AI Apps • Semantic Web & Reasoning • Computer 
 
 **"Intelligence is not just about learning — it's about reasoning, adapting, and explaining."** 🤖
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,50:1a0533,100:0d001a&height=120&section=footer)](https://github.com/RiyaBhart)
+[![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:0a0014,30:2e1065,60:6d28d9,80:a21caf,100:0a0014&height=120&section=footer)](https://github.com/RiyaBhart)
+
 
 </div>
-
-[![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:0a0014,30:2e1065,60:6d28d9,80:a21caf,100:0a0014&height=120&section=footer)](https://github.com/RiyaBhart)
