@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=egg&color=0:1a0030,50:5b21b6,100:9333ea&height=200&section=header&text=Riya%20Bhart&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20AI%20Systems%20Developer&descSize=15&descAlignY=65&descAlign=50)](https://github.com/RiyaBhart)
+[![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0a0014,30:2e1065,60:6d28d9,80:a21caf,100:0a0014&height=200&section=header&text=Riya%20Bhart&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20AI%20Systems%20Developer&descSize=15&descAlignY=65&descAlign=50)](https://github.com/RiyaBhart)
+
+
 ### 🤖 AI Student • ML Developer • Systems Thinker
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+Intelligent+Systems+with+AI+%26+ML;Turning+Data+into+Decisions;Exploring+the+Frontier+of+Artificial+Intelligence)](https://github.com/RiyaBhart)
