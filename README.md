@@ -70,13 +70,13 @@ me.say_hi()
 
 **🤖 AI & Machine Learning**
 
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)&nbsp;[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)&nbsp;[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)&nbsp;[![scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)](https://scikit-learn.org)
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)&nbsp;[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)&nbsp;[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)&nbsp;[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
 
 **Skills:** Classification • Regression • NLP • Recommender Systems • Time Series • Model Evaluation • Feature Engineering
 
 **🧠 AI Systems & Reasoning**
 
-[![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)](https://langchain.com)&nbsp;[![RAG](https://img.shields.io/badge/RAG-00ADD8?style=for-the-badge)](https://github.com/RiyaBhart)&nbsp;[![OWL/RDF](https://img.shields.io/badge/OWL%2FRDF-orange?style=for-the-badge)](https://github.com/RiyaBhart)&nbsp;[![ChromaDB](https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge)](https://github.com/RiyaBhart)
+[![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)](https://langchain.com)&nbsp;[![RAG](https://img.shields.io/badge/RAG-00ADD8?style=for-the-badge)](https://github.com/RiyaBhart)&nbsp;[![OWL/RDF](https://img.shields.io/badge/OWL%2FRDF-FF6B35?style=for-the-badge)](https://github.com/RiyaBhart)&nbsp;[![ChromaDB](https://img.shields.io/badge/ChromaDB-A855F7?style=for-the-badge)](https://github.com/RiyaBhart)
 
 **Skills:** Multi-Agent Systems • Retrieval-Augmented Generation • Ontology-driven Reasoning • Semantic Web (OWL, RDF, SPARQL) • Knowledge Graphs
 
@@ -103,14 +103,26 @@ me.say_hi()
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+[![Riya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiyaBhart&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9)](https://github.com/RiyaBhart)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaBhart&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=8)](https://github.com/RiyaBhart)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RiyaBhart&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=A855F7&point=c9d1d9)](https://github.com/RiyaBhart)
+
+</div>
+
+---
+
 ## 📄 Resume
 
 <div align="center">
 
-[![View Resume]([https://img.shields.io/badge/](https://github.com/RiyaBhart/RiyaBhart/blob/main/RiyaBhart_CV.pdf)📄_View_Resume-A855F7?style=for-the-badge&logoColor=white)](mailto:riyabhart02@gmail.com)
-[![Download PDF]([https://img.shields.io/badge/](https://github.com/RiyaBhart/RiyaBhart/blob/main/RiyaBhart_CV.pdf)⬇️_Download_PDF-7C3AED?style=for-the-badge&logoColor=white)](mailto:riyabhart02@gmail.com)
-
-> 💡 *Upload your resume to Google Drive or this repo and replace the links above!*
+[![View Resume](https://img.shields.io/badge/📄_View_Resume-A855F7?style=for-the-badge&logoColor=white)](https://github.com/RiyaBhart/RiyaBhart/blob/main/RiyaBhart_CV.pdf)
+[![Download PDF](https://img.shields.io/badge/⬇️_Download_PDF-7C3AED?style=for-the-badge&logoColor=white)](https://github.com/RiyaBhart/RiyaBhart/raw/main/RiyaBhart_CV.pdf)
 
 </div>
 
@@ -137,6 +149,6 @@ AI/ML Projects • Full-Stack AI Apps • Semantic Web & Reasoning • Computer 
 
 **"Intelligence is not just about learning — it's about reasoning, adapting, and explaining."** 🤖
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)](https://github.com/RiyaBhart)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,50:1a0533,100:0d001a&height=120&section=footer)](https://github.com/RiyaBhart)
 
 </div>
