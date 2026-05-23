@@ -103,25 +103,12 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![Riya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiyaBhart&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9)](https://github.com/RiyaBhart)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiyaBhart&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)](https://github.com/RiyaBhart)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaBhart&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=8)](https://github.com/RiyaBhart)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RiyaBhart&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=A855F7&point=c9d1d9)](https://github.com/RiyaBhart)
-
-</div>
-
----
-
 ## 📄 Resume
 
 <div align="center">
 
-[![View Resume](https://img.shields.io/badge/📄_View_Resume-A855F7?style=for-the-badge&logoColor=white)](mailto:riyabhart02@gmail.com)
-[![Download PDF](https://img.shields.io/badge/⬇️_Download_PDF-7C3AED?style=for-the-badge&logoColor=white)](mailto:riyabhart02@gmail.com)
+[![View Resume]([https://img.shields.io/badge/](https://github.com/RiyaBhart/RiyaBhart/blob/main/RiyaBhart_CV.pdf)📄_View_Resume-A855F7?style=for-the-badge&logoColor=white)](mailto:riyabhart02@gmail.com)
+[![Download PDF]([https://img.shields.io/badge/](https://github.com/RiyaBhart/RiyaBhart/blob/main/RiyaBhart_CV.pdf)⬇️_Download_PDF-7C3AED?style=for-the-badge&logoColor=white)](mailto:riyabhart02@gmail.com)
 
 > 💡 *Upload your resume to Google Drive or this repo and replace the links above!*
 
