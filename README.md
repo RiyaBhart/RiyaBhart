@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0014,50:1a0533,100:0d001a&height=200&section=header&text=Riya%20Bhart&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Systems%20Developer&descSize=16&descAlignY=62&descAlign=50)](https://github.com/RiyaBhart)
+[![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0014,50:1a0533,100:0d001a&height=200&section=header&text=Riya%20Bhart&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20AI%20Systems%20Developer&descSize=16&descAlignY=62&descAlign=50)](https://github.com/RiyaBhart)
 
 ### 🤖 AI Student • ML Developer • Systems Thinker
 
